@@ -9047,4 +9047,4 @@ message.author.send(`**مدة الرابط : يـوم
   }
 });
 
-client.login('NDg5MDA4NTEyMTg2MzE4ODY5.DqeuIA.SwJb7y8k2RfE3iWE7rbQJ77oTGc');
+client.login('NTI4OTE1MDY1MTI3MzA1MjI4.Dwp4HQ.Tgqn0gAC535-myz6i8UJsRK_8g0');
